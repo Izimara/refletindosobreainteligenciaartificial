@@ -171,5 +171,3 @@ export const perguntas = [
         ]
     }
 ];
- 82 changes: 82 additions & 0 deletions82  
-js/sc
